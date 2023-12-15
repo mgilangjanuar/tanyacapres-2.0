@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "compute-cosine-similarity": "^1.1.0",
+    "duck-duck-scrape": "^2.2.5"
+  }
+}
